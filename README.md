@@ -2,15 +2,6 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
+## Website contents
 
-12321 fkasdjfasd asfdfasd fasdopfasd flksdfjksdf lksdfjlk asdfjk asjlkfasd jlkasdf jlkasdfjlkasdfjlk asdf jlkasdf jlkasd fjlkasdflk asdf asdlkf aslkdjf asdlkf lkasfj lkasjf lkasdjf lkasdfjlkasjf lkasd jfasdlk jfslakdfj asldkj faslkd asdlk 
-
-fasdfasd fsadkj fasdflk asd fjlksadf asf 
-asdf
- asd
- f
- asdf
- asdfasdf asdflk asjdlkfjaslkfjaslkj faslk fjaslkfj asdlkfj aslk fjas
-
- 
+index.html 
